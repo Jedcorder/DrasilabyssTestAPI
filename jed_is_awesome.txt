@@ -1,5 +1,7 @@
 <?txt
 
-This is why Jed is awesome
+//Oh, Found the bug.
+This is why Jed is MEGA AWESOME
+
 
 ?>
