@@ -1,0 +1,5 @@
+<?txt
+
+This is why Jed is awesome
+
+?>
